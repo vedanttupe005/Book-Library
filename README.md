@@ -34,8 +34,9 @@ A simple Flask-based web application for managing a list of books with features 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/book-management-flask.git
-cd book-management-flask
+git clone https://github.com/vedanttupe005/Book-Library.git
+
+cd Book-Library
 ```
 
 ### 2. Install dependencies
