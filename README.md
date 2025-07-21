@@ -65,5 +65,5 @@ Then visit: `http://127.0.0.1:5000` in your browser.
 
 ---
 
-
+no need to create database it will be created automatically if dosn't exist 
 
